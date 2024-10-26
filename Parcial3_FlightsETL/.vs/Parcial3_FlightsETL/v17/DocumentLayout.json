@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nplet\\source\\repos\\Parcial3_FlightsETL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3D715E-ECF7-41A2-99F5-11A15E8D209F}|Parcial3_FlightsETL\\Parcial3_FlightsETL.dtproj|C:\\Users\\nplet\\source\\repos\\Parcial3_FlightsETL\\Parcial3_FlightsETL\\FactFlights.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{3C3D715E-ECF7-41A2-99F5-11A15E8D209F}|Parcial3_FlightsETL\\Parcial3_FlightsETL.dtproj|solutionrelative:Parcial3_FlightsETL\\FactFlights.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3D715E-ECF7-41A2-99F5-11A15E8D209F}|Parcial3_FlightsETL\\Parcial3_FlightsETL.dtproj|C:\\Users\\nplet\\source\\repos\\Parcial3_FlightsETL\\Parcial3_FlightsETL\\FatherPackage.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{3C3D715E-ECF7-41A2-99F5-11A15E8D209F}|Parcial3_FlightsETL\\Parcial3_FlightsETL.dtproj|solutionrelative:Parcial3_FlightsETL\\FatherPackage.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3D715E-ECF7-41A2-99F5-11A15E8D209F}|Parcial3_FlightsETL\\Parcial3_FlightsETL.dtproj|C:\\Users\\nplet\\source\\repos\\Parcial3_FlightsETL\\Parcial3_FlightsETL\\DimDate.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{3C3D715E-ECF7-41A2-99F5-11A15E8D209F}|Parcial3_FlightsETL\\Parcial3_FlightsETL.dtproj|solutionrelative:Parcial3_FlightsETL\\DimDate.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3D715E-ECF7-41A2-99F5-11A15E8D209F}|Parcial3_FlightsETL\\Parcial3_FlightsETL.dtproj|C:\\Users\\nplet\\source\\repos\\Parcial3_FlightsETL\\Parcial3_FlightsETL\\DimAirline.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{3C3D715E-ECF7-41A2-99F5-11A15E8D209F}|Parcial3_FlightsETL\\Parcial3_FlightsETL.dtproj|solutionrelative:Parcial3_FlightsETL\\DimAirline.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FatherPackage.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nplet\\source\\repos\\Parcial3_FlightsETL\\Parcial3_FlightsETL\\FatherPackage.dtsx",
+              "RelativeDocumentMoniker": "Parcial3_FlightsETL\\FatherPackage.dtsx",
+              "ToolTip": "C:\\Users\\nplet\\source\\repos\\Parcial3_FlightsETL\\Parcial3_FlightsETL\\FatherPackage.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial3_FlightsETL\\FatherPackage.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-26T20:41:35.584Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FactFlights.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nplet\\source\\repos\\Parcial3_FlightsETL\\Parcial3_FlightsETL\\FactFlights.dtsx",
+              "RelativeDocumentMoniker": "Parcial3_FlightsETL\\FactFlights.dtsx",
+              "ToolTip": "C:\\Users\\nplet\\source\\repos\\Parcial3_FlightsETL\\Parcial3_FlightsETL\\FactFlights.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial3_FlightsETL\\FactFlights.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-26T04:53:29.632Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DimDate.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nplet\\source\\repos\\Parcial3_FlightsETL\\Parcial3_FlightsETL\\DimDate.dtsx",
+              "RelativeDocumentMoniker": "Parcial3_FlightsETL\\DimDate.dtsx",
+              "ToolTip": "C:\\Users\\nplet\\source\\repos\\Parcial3_FlightsETL\\Parcial3_FlightsETL\\DimDate.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial3_FlightsETL\\DimDate.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-26T03:07:01.411Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DimAirline.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nplet\\source\\repos\\Parcial3_FlightsETL\\Parcial3_FlightsETL\\DimAirline.dtsx",
+              "RelativeDocumentMoniker": "Parcial3_FlightsETL\\DimAirline.dtsx",
+              "ToolTip": "C:\\Users\\nplet\\source\\repos\\Parcial3_FlightsETL\\Parcial3_FlightsETL\\DimAirline.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "Parcial3_FlightsETL\\DimAirline.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-25T23:53:31.971Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
